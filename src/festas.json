@@ -1,0 +1,127 @@
+[
+  {
+    "nome": "Saralina",
+    "data": "2025-05-30",
+    "local": "SP",
+    "endereco": "Rua Augusta, 1500 – Cerqueira César, São Paulo, SP",
+    "descricao": "🎉 SARALINA 2025 – O CAOS MAIS BONITO QUE VOCÊ VAI VIVER! 🌅 A Saralina não é só uma festa, é uma experiência única que mistura música boa, gente bonita, visuais de tirar o fôlego e um open bar completo pra ninguém botar defeito. Imagina curtir o pôr do sol com um drink na mão, rodeado de amigos e desconhecidos que vão virar história? Essa é a vibe. Com uma seleção de DJs de peso mandando muito no eletrônico, funk e outros ritmos que fazem a pista pegar fogo, a festa promete não deixar ninguém parado. Além disso, a estrutura conta com cenários instagramáveis, brindes exclusivos, ativações surpresa e um clima universitário perfeito pra você se soltar e aproveitar ao máximo. O dress code é livre, mas o estilo é sempre bem-vindo — vale apostar em looks leves, ousados ou criativos. A entrada é permitida apenas para maiores de 18 anos com apresentação obrigatória de RG. A organização garante segurança reforçada e ambiente controlado para que você possa curtir com tranquilidade. Não fique de fora do rolê mais falado do semestre. Garanta seu ingresso e venha viver a Saralina: onde o dia vira festa e a noite vira história.",
+    "imagem": "saralina.jpg",
+    "categorias": {
+      "Masculino": 350,
+      "Feminino": 280
+    },
+    "lineup": [
+      {
+        "nome": "Artista 1", 
+        "horario": "22:00 - 00:00"
+      },
+      {
+        "nome": "Artista 2",
+        "horario": "00:00 - 02:00"
+      },
+      {
+        "nome": "Artista 3",
+        "horario": "02:00 - 04:00"
+      },
+      {
+        "nome": "Artista 4",
+        "horario": "04:00 - 06:00"
+      }
+    ],
+    "dressCode": []
+  },
+  {
+    "nome": "Bar dos Bixos",
+    "data": "2025-06-20",
+    "local": "SP",
+    "endereco": "Avenida Paulista, 2000 – Bela Vista, São Paulo, SP",
+    "descricao": "🎉 BAR DOS BIXOS 2025 – A TRADIÇÃO MAIS INSANA DO ANO! 🍻 Seja bem-vindo ao Bar dos Bixos, o rolê mais esperado do semestre! Uma festa lendária feita por veteranos para receber os calouros da melhor forma possível: com MUITA bebida, música e gente linda de todas as faculdades! O que te espera? ✔️ Open bar completo – Cerveja, drinks, vodka, energético e muito mais! 🎧 DJs de peso – Funk, eletrônico, pop e tudo que faz a pista pegar fogo! 📸 Área instagramável – Spots incríveis para registrar seu look e fazer história! 🎭 Temática universitária – Vem com sua camiseta do curso ou fantasia! 🎉 Brindes, shots e surpresas a noite toda. CATEGORIAS DE INGRESSO: - Pista Masculino e Pista Feminino – Acesso total ao open bar e pista principal. DRESS CODE: Estilo universitário liberado – O importante é vir pronto para viver uma noite que vai entrar para a história da sua graduação. Proibida a entrada de menores de 18 anos. Leve seu RG. Organização responsável e segurança garantida para que você curta sem preocupação. Garanta já seu ingresso e viva o início da faculdade como deve ser: inesquecível.",
+    "imagem": "bar-dos-bixos.jpg",
+    "categorias": {
+      "Pista Masculino": 230,
+      "Pista Feminino": 190
+    },
+    "lineup": [
+      {
+        "nome": "Artista 1", 
+        "horario": "22:00 - 00:00"
+      },
+      {
+        "nome": "Artista 2",
+        "horario": "00:00 - 02:00"
+      },
+      {
+        "nome": "Artista 3",
+        "horario": "02:00 - 04:00"
+      },
+      {
+        "nome": "Artista 4",
+        "horario": "04:00 - 06:00"
+      }
+    ],
+    "dressCode": []
+  },
+  {
+    "nome": "Collided",
+    "data": "2025-06-15",
+    "local": "SP",
+    "endereco": "Rua da Consolação, 1200 – Consolação, São Paulo, SP",
+    "descricao": "Electro + Funk + HipHop em um dos maiores eventos indoor de São Paulo.",
+    "imagem": "collided.jpg",
+    "categorias": {
+      "Pista": 225,
+      "VIP": 300
+    },
+    "lineup": [
+      {
+        "nome": "Artista 1", 
+        "horario": "22:00 - 00:00"
+      },
+      {
+        "nome": "Artista 2",
+        "horario": "00:00 - 02:00"
+      },
+      {
+        "nome": "Artista 3",
+        "horario": "02:00 - 04:00"
+      },
+      {
+        "nome": "Artista 4",
+        "horario": "04:00 - 06:00"
+      }
+    ],
+    "dressCode": []
+  },
+  {
+    "nome": "Keinemusik",
+    "data": "2025-07-25",
+    "local": "RJ",
+    "endereco": "Av. Atlântica, 300 – Copacabana, Rio de Janeiro, RJ",
+    "descricao": "Keinemusik pela primeira vez no Brasil — evento internacional, exclusivo, frente-mar.",
+    "imagem": "keinemusik.jpg",
+    "categorias": {
+      "Pista": 460,
+      "Camarote": 620,
+      "Backstage": 850
+    },
+    "lineup": [
+      {
+        "nome": "Artista 1", 
+        "horario": "22:00 - 00:00"
+      },
+      {
+        "nome": "Artista 2",
+        "horario": "00:00 - 02:00"
+      },
+      {
+        "nome": "Artista 3",
+        "horario": "02:00 - 04:00"
+      },
+      {
+        "nome": "Artista 4",
+        "horario": "04:00 - 06:00"
+      }
+    ],
+    "dressCode": []
+  }
+]
